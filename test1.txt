@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C887-C75A
+
+ Directory of C:\Users\RS\Desktop\My Project
+
+06/13/2022  09:15 PM    <DIR>          .
+06/13/2022  09:15 PM    <DIR>          ..
+06/13/2022  09:15 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  11,392,606,208 bytes free
